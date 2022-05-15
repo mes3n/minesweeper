@@ -1,4 +1,4 @@
-# Minesweeper in one hour
+# Minesweeper in one hour (not really)
 
 This is (was) a challange to write a minesweeper clone in one hour.
 The challnge did not work out due to using a new graphics libary (pyglet).
